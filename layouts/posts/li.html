@@ -1,0 +1,19 @@
+<li>
+  <article class="article-preview">
+    <h2 class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="Link to {{ .Title }}">{{ .Title }}</a></h2>
+    <div class="post-meta">
+      <em class="date-posted">{{ .Date.Format "January 2, 2006" }}</em>
+      <div>
+        <span>File under:</span>
+        {{ range .Params.categories }}
+          <a href="/categories/{{ . | urlize }}"><span class="post-category">{{ . }}</span></a>
+        {{ end }}
+        <span>Tags:</span>
+        {{ range .Params.tags }}
+          <a href="/tags/{{ . | urlize }}"><span class="post-tag">{{ . }}</span></a>
+        {{ end }}
+      </div>
+    </div>
+    <div class="article-body"><p>{{ .Params.summary }}</p></div>
+  </article>
+</li>

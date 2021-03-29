@@ -1,0 +1,55 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+<div class="container page-body text-center">
+  <div class="row">
+    <div class="col-12">
+      <h1>{{ .Title }}</h1>
+      <div class="post-meta">
+        <div class="date-posted mod-single-page">{{ .Date.Format "January 2, 2006" }}</div>
+        <span class="demi-word">File under:</span>
+        {{ range .Params.categories }}
+          <a href="/categories/{{ . | urlize }}"><span class="post-category">{{ . }}</span></a>
+        {{ end }}
+        <span class="demi-word">Tags:</span>
+        {{ range .Params.tags }}
+          <a href="/tags/{{ . | urlize }}"><span class="post-tag">{{ . }}</span></a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container container-constrained">
+  <div class="row">
+    <div class="col-12">
+      <article class="post-body">
+        {{ .Content }}
+      </article>
+      <div class="row post-body">
+        <div class="col-6 next-prev-control">
+          {{ if .PrevInSection }}
+            <a href="{{.PrevInSection.Permalink}}">
+              <i class="fa fa-arrow-left"></i> Previous
+              <p><em>{{.PrevInSection.Title}}</em></p>
+            </a>
+          {{ end }}
+          &nbsp;
+        </div>
+        <div class="col-6 text-right next-prev-control">
+          &nbsp;
+          {{ if .NextInSection }}
+            <a href="{{.NextInSection.Permalink}}">
+              Next <i class="fa fa-arrow-right"></i>
+              <p><em>{{.NextInSection.Title}}</em></p>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      {{ partial "disqus.html" . }}
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}

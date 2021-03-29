@@ -1,0 +1,25 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+<div class="container page-body">
+  <div class="row">
+    <div class="col-12">
+      <div class="page-intro text-center">
+        <h1 class="page-intro-heading">Hanna's Thoughts</h1>
+        <p class="page-intro-text">Writings on a bunch of stuff I find interesting!</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <h2>Recent Posts</h2>
+      <ul class="structure-list">
+      {{ range ( first 5 ( where .Site.Pages "Section" "posts" ).ByDate.Reverse ) }}
+        {{ if .Params.tags }}
+        <li><h3 class="recent-posts"><span class="recent-posts-date">{{ .Date.Format "Jan. 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></h3></li>
+        {{end}}
+      {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}

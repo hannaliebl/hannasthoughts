@@ -1,0 +1,72 @@
+// post title in list view
+.post-title {
+  margin: 0;
+  padding: 0;
+  a {
+    color: $primary-text-color;
+  }
+}
+
+.post-meta {
+  font-family: $serif-main;
+  font-weight: 300;
+  color: $post-meta;
+  padding-bottom: 10px;
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.date-posted {
+  &.mod-single-page {
+    font-size: 2rem;
+    padding-bottom: 10px;
+  }
+}
+
+.post-tag,
+.post-category {
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 4px 0px;
+  margin: 2px;
+  color: $post-meta-link;
+  text-decoration: underline;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// container for entire article snippet in list view
+.article-preview {
+  margin-bottom: 20px;
+}
+
+// entire post, single page view
+.post-body {
+  @include vertical-text-rhythm();
+}
+
+ul.pagination > li > a,
+.pagination > li > span {
+  position: relative;
+  float: left;
+  padding: 2px 12px;
+  color: $primary-link-color;
+  text-decoration: none;
+  background-color: #fff;
+  &:hover {
+    transition: $default-transition;
+    background: $highlight-color;
+    color: #fff;
+  }
+}
+
+ul.pagination {
+  font-family: $serif-main;
+  margin: 0;
+  li.active a,
+  li.active:hover {
+    color: #fff;
+    background: $primary-link-color;
+  }
+}

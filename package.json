@@ -1,0 +1,22 @@
+{
+  "name": "hannaliebl.com",
+  "version": "1.0.0",
+  "description": "my homepage",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannaliebl/hannaliebl.com.git"
+  },
+  "author": "Hann Liebl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannaliebl/hannaliebl.com/issues"
+  },
+  "homepage": "https://github.com/hannaliebl/hannaliebl.com#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "postcss-cli": "^7.1.0"
+  }
+}

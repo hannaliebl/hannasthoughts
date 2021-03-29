@@ -1,0 +1,41 @@
+$body-bg: #fff;
+$primary-page-color: #05706d;
+$content-box: lighten(#9ceaef, 10%);
+
+$primary-text-color: #444;
+$secondary-text-color: #068d9d;
+$primary-link-color: #338772;
+$primary-nav-color: #fff;
+$highlight-color: #ff8d10;
+$post-meta: lighten($primary-text-color, 30%);
+$post-meta-link: #07beb8;
+$page-footer-color: #fff;
+
+$sans-serif-main: "Merriweather", "Helvetica Neue", Helvetica, sans-serif;
+$serif-main: "Fira Sans", "Helvetica Neue", Helvetica, sans-serif;
+
+$default-transition: all linear 0.3s;
+
+@mixin img-depth() {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  -mox-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+@mixin vertical-heading-rhythm() {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+@mixin vertical-text-rhythm() {
+  padding-bottom: 20px;
+}
+
+@mixin row-spacing() {
+  margin-bottom: 30px;
+}
+
+@mixin vertical-page-element-rhythm() {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
