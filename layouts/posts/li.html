@@ -6,11 +6,11 @@
       <div>
         <span>File under:</span>
         {{ range .Params.categories }}
-          <a href="/categories/{{ . | urlize }}"><span class="post-category">{{ . }}</span></a>
+          <a class="post-category" href="/categories/{{ . | urlize }}">{{ . }}</a>
         {{ end }}
         <span>Tags:</span>
         {{ range .Params.tags }}
-          <a href="/tags/{{ . | urlize }}"><span class="post-tag">{{ . }}</span></a>
+          <a class="post-tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
         {{ end }}
       </div>
     </div>

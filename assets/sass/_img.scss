@@ -9,12 +9,6 @@
   margin: 0 auto;
 }
 
-.img-left-inline {
-  float: left;
-  margin-right: 20px;
-  width: 50%;
-}
-
 .inline-image-container {
   padding: 0 0 20px 0;
 }
@@ -42,11 +36,6 @@
 }
 
 @media (max-width: 768px) {
-  .img-left-inline {
-    float: left;
-    margin-right: 0;
-    width: 100%;
-  }
   .inline-image {
     max-width: 50%;
   }
