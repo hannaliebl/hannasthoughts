@@ -1,18 +1,11 @@
 $body-bg: #fff;
-$primary-page-color: #05706d;
-$content-box: lighten(#9ceaef, 10%);
-
 $primary-text-color: #444;
-$secondary-text-color: #068d9d;
-$primary-link-color: #338772;
-$primary-nav-color: #fff;
-$highlight-color: #ff8d10;
-$post-meta: lighten($primary-text-color, 30%);
-$post-meta-link: #07beb8;
-$page-footer-color: #fff;
+$lighter-text: lighten($primary-text-color, 30%);
+$primary-link-color: #07beb8;
 
-$sans-serif-main: "Merriweather", "Helvetica Neue", Helvetica, sans-serif;
-$serif-main: "Fira Sans", "Helvetica Neue", Helvetica, sans-serif;
+$serif: "Merriweather", "Georgia", "Times New Roman", serif;
+$sans-serif: "Fira Sans", "Helvetica Neue", Helvetica, Trebuchet, Tahoma, Arial,
+  sans-serif;
 
 $default-transition: all linear 0.3s;
 

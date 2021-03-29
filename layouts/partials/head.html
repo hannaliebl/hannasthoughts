@@ -10,7 +10,7 @@
       {{ .Hugo.Generator }}
       <title>{{ .Site.Title }}</title>
       <link rel="canonical" href="{{ .Permalink}}" />
-      <link href='https://fonts.googleapis.com/css?family=Fira+Sans:300,700|Merriweather:100,300,500' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Fira+Sans:300,700|Merriweather:300,700' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
       {{ $styles := resources.Get "sass/main.scss" | toCSS (dict "targetPath" "css/main.css") | postCSS | minify | fingerprint }}
       <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">

@@ -27,7 +27,7 @@
                 </a>
               </li>
             {{ end }}
-            {{ if gt .Paginator.PageNumber 1 }}
+            {{ if or .Paginator.HasPrev .Paginator.HasNext}}
             <li class="active"><a href="#">{{ .Paginator.PageNumber }}</a></li>
             {{ end }}
             {{ if .Paginator.HasNext }}
