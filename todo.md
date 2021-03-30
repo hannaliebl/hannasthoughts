@@ -2,7 +2,7 @@
 
 - [x] Update google analytics
 - [x] Remove unneeded CSS
-- [ ] Remove unneeded templates
+- [x] Remove unneeded templates
 - [ ] Get 404 working, fix that template - https://docs.netlify.com/routing/redirects/redirect-options/#custom-404-page-handling
 - [ ] Github - private?
 - [ ] Remove personal blog stuff from other site
