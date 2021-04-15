@@ -6,7 +6,8 @@ categories = ["Guides"]
 tags = ["Bullet Journaling", "Organization"]
 featured = ["true"]
 images=["/how-i-use-my-bullet-journal/twitter-card.jpg"]
-summary = "I walk you through how I use my bullet journal: the tools I use, how I organize my weekly layouts, and what I keep track of."
+description = "A walkthrough of how I use my bullet journal: the tools I use, how I organize my weekly layouts, and what I keep track of."
+summary = "A walkthrough of how I use my bullet journal: the tools I use, how I organize my weekly layouts, and what I keep track of."
 +++
 
 In my [last post](../what-is-a-bullet-journal-and-why-i-love-it), I described what bullet journaling is and why I love it so much. Today, I'd like to walk you through how I bullet journal: the tools I use, how I organize my weekly layouts, and the different ways I choose to use my bullet journal.
