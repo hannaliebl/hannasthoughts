@@ -4,7 +4,6 @@ draft = false
 title = "What Is a Bullet Journal, and Why I Love It"
 categories = ["Guides"]
 tags = ["Bullet Journaling", "Organization"]
-featured = ["true"]
 images=["/what-is-a-bullet-journal-and-why-i-love-it/twitter-card.jpg"]
 summary = "My guide to what bullet journaling is and why I think it's such a good system for organization and also a system that can drive behavioral change."
 +++

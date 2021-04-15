@@ -4,7 +4,6 @@ draft = false
 title = "The Bullet Journal As An Art Form"
 categories = ["Guides"]
 tags = ["Bullet Journaling", "Organization"]
-featured = ["true"]
 images=["/the-bullet-journal-as-an-art-form/twitter-card.jpg"]
 description="Can a bullet journal be more than a utilitarian list of tasks? I think a bullet journal can be a form of art, but don't let that stop you from starting one!"
 summary = "Can a bullet journal be more than a utilitarian list of tasks? I think a bullet journal can be a form of art, but don't let that stop you from starting one!"

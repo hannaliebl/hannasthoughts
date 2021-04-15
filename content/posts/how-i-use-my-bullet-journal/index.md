@@ -4,7 +4,6 @@ draft = false
 title = "How I Use My Bullet Journal"
 categories = ["Guides"]
 tags = ["Bullet Journaling", "Organization"]
-featured = ["true"]
 images=["/how-i-use-my-bullet-journal/twitter-card.jpg"]
 description = "A walkthrough of how I use my bullet journal: the tools I use, how I organize my weekly layouts, and what I keep track of."
 summary = "A walkthrough of how I use my bullet journal: the tools I use, how I organize my weekly layouts, and what I keep track of."

@@ -4,11 +4,8 @@ draft = false
 title = "2019 Favorites"
 categories = ["Yearly Favorites"]
 tags = ["Movies", "TV", "Books", "Video Games"]
-featured = ["true"]
 summary = "My favorite books, TV shows, movies, and more from 2019."
 +++
-
-I'm trying something new with this website: I'm not just going to write about tech stuff. So, welcome to my personal blog. Will anyone other than me read it? Who knows!
 
 I really enjoy end-of-year lists, and so before it gets too far into 2020, here are my favorites from 2019. Some of these were released in 2019, some were just things I happened to enjoy in 2019.
 

@@ -4,7 +4,6 @@ draft = false
 title = "2020 Favorites"
 categories = ["Yearly Favorites"]
 tags = ["Movies", "TV", "Books", "Video Games"]
-featured = ["true"]
 summary = "My favorite books, TV shows, movies, and more from 2020."
 +++
 
