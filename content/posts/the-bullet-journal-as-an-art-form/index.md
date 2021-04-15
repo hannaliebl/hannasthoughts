@@ -23,7 +23,7 @@ Browse through the [#bujo tag](https://www.instagram.com/explore/tags/bujo/) on 
 
 But, I like that it can be used as a creative outlet. In recent years I've gone more towards the utilitarian side, but I do sometimes create artistic cover pages for months, or create a monthly spread with drawings and typography that could, maybe, find a home on an Instagram page.
 
-I think a bullet journal's structure makes it easier to get a little creative: there are built-in opportunities every month to decorate and design a page or a spread with a purpose. A natural spot for creativity is creating a cover page for each month. Some people choose themes for the month, and then decorate every weekly spread with those themes.
+I think a bullet journal's structure makes it easier to get a little creative: there are built-in opportunities every month to decorate and design a page or a spread with a purpose. A natural spot for creativity is creating a cover page for each month. Some people choose themes for the month and then decorate every weekly spread with those themes.
 
 My bullet journal is sometimes the only time in a day or week that I put pen to paper. As someone who grew up doodling and drawing, I like that connection to pen and paper, and when I give myself license to be a little creative and not worry so much about "messing up" my journal, that is when I find it most useful, and it can become a spot for creativity as well as function.
 
