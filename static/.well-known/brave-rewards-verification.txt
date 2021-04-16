@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hannasthoughts.com
+Token: 213d393f574c46eeecd50faf128e2e68360a9419f24a953e700bfd3e475cd74c
