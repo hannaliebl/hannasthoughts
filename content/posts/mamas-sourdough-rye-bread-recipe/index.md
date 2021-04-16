@@ -51,7 +51,6 @@ Sesame seeds (optional)
 5. Add some of the flour to the sponge, and add salt to taste (my mom uses 2 - 3 teaspoons.) Gently mix.
 6. Add the rest of the flour and continue mixing. You don't need to knead, and the dough will be stickier, denser, and way less springy than sourdough recipes you may have used in the past.
 7. You should now have 2000 grams total of dough. The dough should be sticky, but not too wet and not too dry, either. Feel free to add more flour or water here to achieve the desired consistency.
-
 <div class="text-center inline-image-container">
   <img src="./rye-dough-consistency-before-proofing.jpg" alt="" class="img-responsive img-center"></img>
   <div class="caption-container">
