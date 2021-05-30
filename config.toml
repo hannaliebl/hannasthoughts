@@ -6,7 +6,6 @@ description = ""
 pluralizelisttitles = false
 preserveTaxonomyNames = true
 paginate = 5
-disqusShortname = "hannasthoughts"
 googleAnalytics = "UA-61564965-5"
 canonifyurls = true
 
