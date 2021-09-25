@@ -1,5 +1,5 @@
 +++
-date = "2021-09-24T19:35:38-05:00"
+date = "2021-09-24T18:35:38-05:00"
 draft = false
 title = "Notes from Building a PC for the First Time in a Decade"
 categories = ["Tech"]
