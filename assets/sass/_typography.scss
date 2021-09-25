@@ -51,6 +51,8 @@ h3 {
 
 h3.recent-posts {
   font-size: 1.8rem;
+  display: flex;
+  justify-content: flex-start;
 }
 
 h4 {
@@ -137,7 +139,8 @@ blockquote {
   }
 
   .recent-posts-date {
-    display: inline-block;
+    flex-shrink: 0;
+    display: block;
     width: 13rem;
     font-size: 1.8rem;
     font-style: italic;
