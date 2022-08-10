@@ -14,7 +14,7 @@ summary = "How I established my blueberry bed using hügulkultur."
 
 I mostly just went with the varieties my mom uses, and asked a neighbor who also has blueberries which plants are great producers for the specific climate we are in.
 
-I settled on Bluecrop, Blueray, and Patriot, all northern highbush varieties. Having multiple varieties helps with cross-pollination and, in turn, more berries. I also wanted to have some variety in ripening time, and Blueray and Patriot ripen a bit before Bluecrop, allowing for, ideally, a good crop of berries for all of July and into the beginning of August. I was particularly excited for Patriot, a variety created at the University of Maine, which has great fall color and tastes excellent.
+I settled on two plants each of Bluecrop, Blueray, and Patriot, all northern highbush varieties. Having multiple varieties helps with cross-pollination and, in turn, more berries. I also wanted to have some variety in ripening time, and Blueray and Patriot ripen a bit before Bluecrop, allowing for, ideally, a good crop of berries for all of July and into the beginning of August. I was particularly excited for Patriot, a variety created at the University of Maine, which has great fall color and tastes excellent.
 
 ## Selecting a location and preparing the bed
 
@@ -22,11 +22,11 @@ Blueberries like sunny, relatively dry locations. They can also get quite big, u
 
 #### Hügelkultur
 
-I chose to do pseudo-lasagna gardening/hügelkultur for the blueberry bed. Lasagna gardening is a no-till method where you layer cardboard down and then brown and green compost. It's basically like composting in place. Hügelkultur is mounding woody material and then green/brown compost and even upside-down turf to create a mounded garden bed that also composts in place. The woody material in the bottom of the bed provides more even moisture and breaks down slowly over time.
+I chose to do pseudo-lasagna gardening/hügelkultur for the blueberry bed. Lasagna gardening is a no-till method where you do layers of cardboard and then brown and green compost. It's basically like composting in place, while also smothering existing weeds/turf. Hügelkultur is mounding woody material (traditionally in a shallow trench) and then layers of green/brown compost, leaves, and sometimes upside-down turf to create a mounded garden bed that also composts in place. The woody material in the bottom of the bed provides more even moisture and breaks down slowly over time.
 
-There are some considerations when doing hügelkultur, namely that the wood breaking down will use nitrogen, so supplementing with nitrogen in the first year might be required for plants who need it. I, personally, did not supplement with nitrogen in the blueberry bed (or in other beds where I added woody material), but that is something to consider if you see signs of nitrogen deficiency in your plants.
+There are some considerations when doing hügelkultur, namely that the wood breaking down will use nitrogen, so supplementing with nitrogen in the first year might be required for plants who need it. I didn't supplement with nitrogen in the blueberry bed (or in other beds where I added woody material), but that is something to consider if you see signs of nitrogen deficiency in your plants.
 
-In mid-March, I started with a layer of cardboard and then added some woody material that I had from bushes I removed from the front yard and sticks/branches that had fallen from trees.
+In mid-March, once the snow had melted, I started with a layer of cardboard and then added a layer of woody material (brush, fallen tree branches, etc.)
 
 <div class="text-center inline-image-container">
   <img src="./laying-cardboard-for-blueberry-bed.jpg" alt="Laying down cardboard for the start of the blueberry bed." class="img-responsive img-center"></img>
@@ -35,7 +35,7 @@ In mid-March, I started with a layer of cardboard and then added some woody mate
   </div>
 </div>
 
-I then laid down leaves from the leaf mould pile we inherited. I tried to layer of more recent, crispy brown leaves and then followed with a layer of older, more decayed leaf mould.
+I then laid down leaves from the [leaf pile pile we inherited](https://www.hannasthoughts.com/the-garden-year-0/#compost). I mixed layers of more recent, crispy brown leaves and then a layer of older, more decayed leaf mould.
 
 <div class="text-center inline-image-container">
   <img src="./layering-leaves-blueberry-bed.jpg" alt="Laying down leaves and leaf mould." class="img-responsive img-center"></img>
@@ -44,7 +44,7 @@ I then laid down leaves from the leaf mould pile we inherited. I tried to layer 
   </div>
 </div>
 
-My neighbor was building a chicken coop and removed a lot of turf for that project, so I also took a few wheelbarrows full of turf and laid them upside down to build up the height of the bed. Finally, I also ordered a truck load of compost for all my garden projects this year, so I also added some finished compost to the top of the bed.
+My neighbor was building a chicken coop and removed a lot of turf for that project, so I also took a few wheelbarrows full of turf and laid them upside down to build up the height of the bed. Finally, I also ordered a truck load of compost for all my garden projects this year since I didn't have enough of my own, so I also added some finished compost to the top of the bed.
 
 <div class="text-center inline-image-container">
   <img src="./finishing-with-compost.jpg" alt="Adding a layer of finished compost." class="img-responsive img-center"></img>
