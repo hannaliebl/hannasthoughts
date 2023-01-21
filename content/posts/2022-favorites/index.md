@@ -29,7 +29,7 @@ I struggled through the [Baru Cormorant](https://www.goodreads.com/book/show/234
 
 I discovered [Torres](https://torrestorrestorres.bandcamp.com/) this year! What an amazing musician. I found out about her through her partner's instagram, the artist [Jenna Gribbon](https://www.instagram.com/jennagribbon/?hl=en), which is a first. I will list her most recent album, [Thirstier](https://torrestorrestorres.bandcamp.com/album/thirstier), as my favorite, but her entire catalog is great.
 
-As for music that came out this year, I also discovered the band [Momma](https://mommaband.bandcamp.com/) (they opened for Snail Mail, one of my favorite band), and I really enjoyed their music as well.
+As for music that came out this year, I also discovered the band [Momma](https://mommaband.bandcamp.com/) (they opened for Snail Mail, one of my favorite bands), and I really enjoyed their music as well.
 
 ## TV
 
