@@ -51,7 +51,7 @@ I also enjoyed [Bad Sisters](https://tv.apple.com/us/show/bad-sisters/umc.cmc.14
 
 I am trying to watch more movies. I feel like I've lost an ability to appreciate or critique movies after years of not watching more than a handful each year. They demand a different attention than TV shows, and some movies place an emphasis on different things than TV shows do (metaphor, symbolism, mood, etc. rather than straight story/spectacle.)
 
-My favorite of the 2022 releases that I watched was [Tár](https://www.imdb.com/title/tt14444726/). Cait Blanchett is amazing in it. It's a movie about power and abuse of power, focusing on a fictional composer-conductors named Lydia Tár. I also enjoyed [Triangle of Sadness](https://www.imdb.com/title/tt7322224/), a black comedy (and in many ways a physical comedy) about ultra-wealthy people on a doomed yacht cruise.
+My favorite of the 2022 releases that I watched was [Tár](https://www.imdb.com/title/tt14444726/). Cate Blanchett is amazing in it. It's a movie about power and abuse of power, focusing on a fictional composer-conductors named Lydia Tár. I also enjoyed [Triangle of Sadness](https://www.imdb.com/title/tt7322224/), a black comedy (and in many ways a physical comedy) about ultra-wealthy people on a doomed yacht cruise.
 
 A new-to-me movie I watched for the first time was [The Favourite](https://www.imdb.com/title/tt5083738/). It's another black comedy, this time set in 18th century England featuring a love/power triangle between Queen Anne and two women in her court.
 
