@@ -7,7 +7,7 @@ tags = ["Movies", "TV", "Books", "Video Games"]
 summary = "My favorite books, TV shows, movies, and more from 2022."
 +++
 
-Another year has slipped by! I spent a fair amount of energy and time on house/garden projects. I got a new job. My favorite job is still being the parent of a tiny, wonderful human. Here are my 2022 favorites. As usual, not all of these things were released/published in 2022, some of them were just my favorite thing in a given category that I watched/read/listened to/used this year.
+Another year has slipped by! I spent a fair amount of energy and time on [house](https://www.hannasthoughts.com/categories/house/)/[garden](https://www.hannasthoughts.com/categories/garden/) projects. I got a new job. My favorite job is still being the parent of a tiny, wonderful human. Here are my 2022 favorites. As usual, not all of these things were released/published in 2022, some of them were just my favorite thing in a given category that I watched/read/listened to/used this year.
 
 ## Book
 
