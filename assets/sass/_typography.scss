@@ -79,6 +79,20 @@ blockquote {
   border-left: 10px solid $primary-text-color;
 }
 
+table {
+  @include vertical-heading-rhythm();
+}
+
+td, tr, th {
+  border: 1px solid lighten($lighter-text, 20%);
+  padding: 10px;
+  font-size: 1.1rem;
+}
+
+th {
+  padding: 16px;
+}
+
 .text-right {
   text-align: right;
 }

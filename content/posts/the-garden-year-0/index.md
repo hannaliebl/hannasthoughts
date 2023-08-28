@@ -62,7 +62,7 @@ My sister taught me just how bad Japanese barberry is. First, it's not native, w
   </div>
 </div>
 
-So my sister and friend came and helped with much of the labor of removing the barberry. They also took out one of the boxwoods. I replaced the empty space with two snow queen hydrangeas, which will hopefully thrive and fill in the space and show off their beautiful flowers in the spring and summer. We ended up leaving two boxwoods next to the front steps (and some along the side of the porch.) They do provide nice volume and are evergreen, and having them frame the steps seemed like a decent aesthetic choice for now.
+So my sister and friend came and helped with much of the labor of removing the barberry. They also took out one of the boxwoods. I replaced the empty space with two Annabelle hydrangeas, which will hopefully thrive and fill in the space and show off their beautiful flowers in the spring and summer. We ended up leaving two boxwoods next to the front steps (and some along the side of the porch.) They do provide nice volume and are evergreen, and having them frame the steps seemed like a decent aesthetic choice for now.
 
 <div class="text-center inline-image-container">
   <img src="./front-yard-shrubs-removed.jpg" alt="How the front yard looked after removing invasive Japanese barberries and replacing some boxwoods with hydrangeas." class="img-responsive img-center"></img>
