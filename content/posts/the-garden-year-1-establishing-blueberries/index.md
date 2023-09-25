@@ -2,7 +2,7 @@
 date = "2022-08-09T07:05:00-04:00"
 draft = false
 title = "The Garden Year 1: Establishing Blueberries"
-categories = ["House", "Garden"]
+categories = ["Garden"]
 tags = ["Gardening", "Berries", "Blueberries", "Hügulkultur", "Lasagna Gardening"]
 description="How I established my blueberry bed using hügulkultur."
 summary = "How I established my blueberry bed using hügulkultur."

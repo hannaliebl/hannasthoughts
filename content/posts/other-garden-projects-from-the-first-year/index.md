@@ -2,7 +2,7 @@
 date = "2023-08-26T07:15:00-04:00"
 draft = false
 title = "Other Garden Projects From the First Year"
-categories = ["House", "Garden"]
+categories = ["Garden"]
 tags = ["Gardening", "Bokashi", "Front Yard", "Sunporch Bed", "Native Plants", "Raspberries", "Lasagna Gardening"]
 description="Catching up on all the other garden projects I did in the first full growing season, including my first foray into ornamental native planting."
 summary = "Catching up on all the other garden projects I did in the first full growing season, including my first foray into ornamental native planting."

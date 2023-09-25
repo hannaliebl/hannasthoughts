@@ -2,7 +2,7 @@
 date = "2022-09-21T07:00:00-04:00"
 draft = false
 title = "The Garden Year 1: Raised Beds for Vegetables"
-categories = ["House", "Garden"]
+categories = ["Garden"]
 tags = ["Gardening", "Vegetables", "Raised Beds", "Hügulkultur"]
 description="How I started my vegetable garden in raised beds."
 summary = "How I started my vegetable garden in raised beds."

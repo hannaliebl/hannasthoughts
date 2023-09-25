@@ -2,7 +2,7 @@
 date = "2022-04-24T07:15:00-04:00"
 draft = false
 title = "The Garden Year 0"
-categories = ["House", "Garden"]
+categories = ["Garden"]
 tags = ["Gardening", "Compost", "Bokashi", "Front Yard"]
 description="The work I did in the first year of having a garden to prepare for future garden projects."
 summary = "The work I did in the first year of having a garden to prepare for future garden projects."
