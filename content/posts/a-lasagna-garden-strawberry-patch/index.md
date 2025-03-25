@@ -36,7 +36,7 @@ My key mistake was not really considering just how much land I would need to pla
   </div>
 </div>
 
-I ordered my plants in December. I used [Fedco](https://fedcoseeds.com/), which is my preferred source for plants by mail. I chose the [Sparkle variety](https://fedcoseeds.com/trees/sparkle-june-bearing-strawberry-385) (it was their description of the variety that convinced me: "We’ve yet to taste a strawberry that comes even remotely close to Sparkle. They possess a flavor that can only be described as the essence of strawberry. The best in an early year, the best in a late year, the best this year, last year, every year." Fedco ships bare roots in 50-plant increments, and so I ordered 50 plants.
+I ordered my plants in December. I used [Fedco](https://fedcoseeds.com/), which is my preferred source for plants by mail. I chose the [Sparkle variety](https://fedcoseeds.com/trees/sparkle-june-bearing-strawberry-385) (it was their description of the variety that convinced me: "We’ve yet to taste a strawberry that comes even remotely close to Sparkle. They possess a flavor that can only be described as the essence of strawberry. The best in an early year, the best in a late year, the best this year, last year, every year.") Fedco ships bare roots in 50-plant increments, and so I ordered 50 plants.
 
 In March, I decided that I would probably need more space, so I extended the bed to the east. I put down a layer of cardboard, and some old leaf litter I had on hand, and then bought some finished compost and topsoil and layered that on top.
 
