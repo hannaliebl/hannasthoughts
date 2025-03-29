@@ -4,7 +4,7 @@ draft = false
 title = "2024 Favorites"
 categories = ["Yearly Favorites"]
 tags = ["Movies", "TV", "Books", "Video Games"]
-summary = "My favorite books, TV shows, movies, and more from 2023."
+summary = "My favorite books, TV shows, movies, and more from 2024."
 +++
 
 Better late than never! I feel like my media consumption is way down, somehow. I am busier than ever between two kids, work, and lots of things going on. I still enjoy this exercise, though, so here it is: my favorites from the year (and as always, a given book, movie, etc. doesn't necessarily have to have been released in 2024 in order to count.)
