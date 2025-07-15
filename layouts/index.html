@@ -13,7 +13,7 @@
     <div class="col-12">
       <h2>Recent Posts</h2>
       <ul class="structure-list">
-      {{ range ( first 5 ( where .Site.Pages "Section" "posts" ).ByDate.Reverse ) }}
+      {{ range ( first 6 ( where .Site.Pages "Section" "posts" ).ByDate.Reverse ) }}
         {{ if .Params.tags }}
         <li><h3 class="recent-posts"><span class="recent-posts-date">{{ .Date.Format "Jan. 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></h3></li>
         {{end}}

@@ -5,9 +5,10 @@ title = "Hanna's Thoughts: Writings on a bunch of stuff I find interesting!"
 description = ""
 pluralizelisttitles = false
 preserveTaxonomyNames = true
-paginate = 5
 googleAnalytics = "UA-61564965-5"
 canonifyurls = true
+[pagination]
+  pagerSize = 5
 
 [author]
   name = "Hanna Liebl"

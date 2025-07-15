@@ -7,7 +7,7 @@
       <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
       <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
       <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
-      {{ .Hugo.Generator }}
+      {{ hugo.Generator }}
       <title>{{ .Site.Title }}</title>
       <link rel="canonical" href="{{ .Permalink}}" />
       <link href='https://fonts.googleapis.com/css?family=Fira+Sans:300,700|Merriweather:300,700' rel='stylesheet' type='text/css'>
