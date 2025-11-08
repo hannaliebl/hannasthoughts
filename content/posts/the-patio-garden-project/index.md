@@ -175,9 +175,9 @@ I also finally added a bird bath to my garden in this bed. The more I read about
 Later in the summer, I used a shovel to carve out a hard edge for the bed. I'm still trying to come up with my preferred edging method. I've used aluminum edging and bricks in some places, but the simplicity of a hard cut edge worked for me here, plus I like the way it looks.
 
 <div class="text-center inline-image-container">
-  <img src="./garden-paths.jpg" alt="Milk jugs full of seedlings." class="img-responsive img-center"></img>
+  <img src="./garden-paths.jpg" alt="The patio and peach tree beds edged." class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">Some of the native perennials I started from seed. They overwinter in milk jugs outside as many species need to be exposed to cold, moist conditions for months to break dormancy.</div>
+    <div class="inline-image-caption">The patio bed and expanded peach tree bed (future home of more fruit trees) after giving it a nice, hard edge.</div>
   </div>
 </div>
 
