@@ -4,11 +4,11 @@ draft = false
 title = "2025 Garden Reflections"
 categories = ["Garden"]
 tags = ["Gardening", "Native Plants", "Garden Design", "Lasagna Gardening", "Winter Sowing", "Vegetables", "Blueberries", "Peaches", "Patio Bed", "Birch Bed", "Front Yard", "Trees"]
-description="Designing and planting a native perennial garden to wrap around my patio."
-summary = "Designing and planting a native perennial garden to wrap around my patio."
+description="Reflections and a recap of my biggest gardening year ever."
+summary = "Reflections and a recap of my biggest gardening year ever."
 +++
 
-2025 was, so far, the biggest gardening year I've had--I started gardening at this house in 2022, and it took me three years to ramp up to this year. I completed many projects, started many new garden beds, and planted hundreds of plants in my yard, almost all of them native to Massachusetts or to the east coast. I grew a lot of plants from seed, both annuals and perennials. Overall, I'm very proud of what I did and how well it's worked out so far, so let me reflect on the season as a whole.
+2025 was, so far, the biggest gardening year I've had--I started gardening at this house in 2022, and it took me three years to ramp up to this point. I completed many projects, started many new garden beds, and planted hundreds of plants in my yard, almost all of them native to Massachusetts or to the east coast in general. I grew a lot of plants from seed, both annuals and perennials. Overall, I'm very proud of what I did and how well it's worked out so far, so let me reflect on the season as a whole.
 
 ## Big Projects I Tackled
 
@@ -16,7 +16,7 @@ I'll cover this in rough chronological order...
 
 ### Growing More from Seed
 
-I started native perennials from seed for the first time ever. I used the milk jug method of cold stratifying species that require a period of cold, moist conditions to trigger germination, and that worked pretty well. Not everything germinated, but I got a lot of tiny seedlings that I transferred into my garden throughout the year. I also started some species that don't require stratification directly in flats like purple coneflower and mountain mints and had success with that as well.
+I started native perennials from seed for the first time ever. I used the milk jug method of cold stratifying species that require a period of cold, moist conditions to trigger germination, and that worked pretty well. Not everything germinated, but I got a lot of tiny seedlings that I transferred into my garden throughout the year. I also started some species that don't require stratification directly in flats like purple coneflower and mountain mints, and had success with that, too.
 
 <div class="text-center inline-image-container">
   <img src="../the-patio-garden-project/seeds-in-milk-jugs.jpg" alt="Winter sowing in milk jugs" class="img-responsive img-center"></img>
@@ -25,7 +25,7 @@ I started native perennials from seed for the first time ever. I used the milk j
   </div>
 </div>
 
-I continued starting a lot of vegetables from seed, and also did a lot more annual flowers: cosmos, zinnias, snapdragons, sunflowers, and marigolds. I interspersed these annuals into new garden beds and other random areas, and loved the bursts of color they provided.
+I continued starting a lot of vegetables from seed, and also did a lot more annual flowers: cosmos, zinnias, snapdragons, sunflowers, and marigolds. I interspersed these annuals into new garden beds and other random areas and loved the bursts of color they provided.
 
 <div class="text-center inline-image-container">
   <img src="./seedlings.jpg" alt="Trays of seedlings" class="img-responsive img-center"></img>
@@ -34,7 +34,7 @@ I continued starting a lot of vegetables from seed, and also did a lot more annu
   </div>
 </div>
 
-As always, growing from seed indoors is so fun and a nice way to extend the garden season in the long New England winter.
+As always, growing from seed indoors is fun and a nice way to extend the garden season in the long New England winter.
 
 ### Garden Infrastructure and New Trees
 
@@ -54,7 +54,9 @@ In March, I installed a [cedar arbor](https://www.wayfair.com/outdoor/pdp/all-th
   </div>
 </div>
 
-In April, we took down the two remaining Norway maple trees in our yard. It's a somewhat futile gesture to take down two invasive trees in a neighborhood that is full of them, and I am always thoughtful about taking down any mature tree (except for you, Tree of Heaven!), but it opened up way more space to fill with other, more beneficial plants. On one side where one of the maples once was, I added an Autumn Brilliance serviceberry, and on the other side, I planted a red oak. The serviceberry is closer to the house and will provide an anchor for that side of the yard without getting too tall. I'm excited to sample some of the fruit (if the birds let me), and it should provide multiple seasons of interest, from spring blooms to fall color. The red oak was a choice driven entirely by ecological benefits. I've been interested in planting an oak for a while since I learned that in the Northeast they are one of the most broadly beneficial plants to vast amounts of insect and bird life. I like that red oaks grow relatively quickly and also give some fall color. I planted it far enough away from the house that it shouldn't be an issue, hopefully forever, but even if it does need to come down in 50 or 100 or more years, it will have provided decades of ecosystem services.
+In April, we took down the two remaining Norway maple trees in our yard. It's a somewhat futile gesture to take down two invasive trees in a neighborhood that is full of them, and I am always thoughtful about taking down any mature tree (except for you, Tree of Heaven!), but it opened up way more space to fill with other, more beneficial plants. On one side, where one of the maples once was, I added an "Autumn Brilliance" serviceberry, and on the other side, I planted a red oak. The serviceberry is closer to the house and will provide an anchor for that side of the yard without getting too tall. I'm excited to sample some of the fruit (if the birds let me), and it should provide multiple seasons of interest, from spring blooms to fall color.
+
+The red oak was a choice driven entirely by ecological benefits. I've been interested in planting an oak for a while since I learned that in the Northeast they are one of the most broadly beneficial plants to vast amounts of insect and bird life. I like that red oaks grow relatively quickly and also give some fall color. I planted it far enough away from the house that it shouldn't be an issue, hopefully forever, but even if it does need to come down in 50 or 100 or more years, it will have provided decades of ecosystem services.
 
 <div class="text-center inline-image-container">
   <img src="./new-serviceberry.jpg" alt="Newly-planted 'Autumn Brilliance' Serviceberry" class="img-responsive img-center"></img>
@@ -85,12 +87,12 @@ I made a bunch of other new beds and expanded existing beds in both the front an
 
 #### Backyard
 
-I expanded an existing bed on the other side of my patio along my garage that was mostly full of annuals and biennials from a seed mix I'd sown in 2023. It's under the shade of the large sugar maple in the backyard, so I made it a shade garden, with rhododendrons, mock orange, clethra alnifolia, Jacob's ladder, bluebells, asters, goldenrods, ferns, and a pagoda dogwood to anchor one end of it.
+I expanded an existing bed on the other side of my patio along my garage that was mostly full of annuals and biennials from a seed mix I'd sown there in 2023. It's under the shade of the large sugar maple in the backyard, so I made it a shade garden with rhododendrons, mock orange, clethra alnifolia, Jacob's ladder, bluebells, asters, goldenrods, ferns, and a pagoda dogwood to anchor one end of it.
 
 <div class="text-center inline-image-container">
   <img src="./garage-bed.jpg" alt="Garage bed in May and September." class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">On the left, part of the garage bed in May with new transplanted forbs and shrubs. On the right, an expansion to the garage bed, featuring a small, newly-planted pagoda dogwood.</div>
+    <div class="inline-image-caption">On the left, part of the garage bed in May with new transplanted forbs and shrubs. On the right, an expansion to the garage bed in the fall, featuring a small, newly-planted pagoda dogwood.</div>
   </div>
 </div>
 
@@ -101,7 +103,7 @@ I expanded an existing bed on the other side of my patio along my garage that wa
   </div>
 </div>
 
-I used leaves last fall to smother the lawn along a fence line on the side of my yard, so I planted up that bed with blocks of taller, shade-tolerant native perennials. I had two sour cherry shrubs there that I incorporated into the bed. I still haven't had fruit from these shrubs yet, but hopefully some year they will give me some type of yield.
+I used leaves last fall to smother the lawn along a fence on the southern side of my yard, so I planted up that bed with blocks of taller, shade-tolerant native perennials. I had two sour cherry shrubs there that I incorporated into the bed. I still haven't had fruit from these shrubs yet, but hopefully some year they will give me some type of yield.
 
 I moved my blueberries (and got some new varieties - I have 12 shrubs in total now!) from behind my raised beds on the back side of my yard to in front of the raised beds (if you're curious about how my blueberry plans have evolved, check out this post from 2022 about [establishing my blueberries](https://www.hannasthoughts.com/the-garden-year-1-establishing-blueberries/)), and filled the empty space behind the beds with a shrub and perennial border. I used fothergilla, ninebark, a flame azalea, and aronia arbutifolia as the shrub layer, and while they are all still small, I filled in the rest of the space with more prairie-style, sun-loving perennials, as the back bed gets a lot of sun, and the plants should be ok there until the shrubs get much bigger.
 
@@ -141,7 +143,7 @@ I also significantly expanded a small shrub border north of the birch tree, and 
 
 #### Front Yard
 
-I used the arborist chips from the Norway maple removal to finish converting the side of my front yard into a garden bed. I had started this in 2023, and slowly worked my way all the way up from the back of this yard to the sidewalk. The arborist chips should hopefully finally smother the ivy, oriental bittersweet, hostas, and barberry that were in that bed, but I have continued pulling by hand throughout this year there as well.
+I used the arborist chips from the Norway maple removal to finish converting the side of my front yard into a garden bed. I had started this in 2023, and slowly worked my way all the way up from the back of this yard to the sidewalk. The arborist chips should hopefully finally smother the ivy, bittersweet, hostas, and barberry that were in that bed, but I have continued pulling by hand throughout this year there as well.
 
 <div class="text-center inline-image-container">
   <img src="./front-side-may.jpg" alt="Front side border, newly-laid arborist chips." class="img-responsive img-center"></img>
@@ -190,7 +192,9 @@ That about wraps up all the beds I created and expanded!
 
 ## Other Projects and Tidbits
 
-I added two bird baths to my garden after reading about the benefits of water sources for birds and insects. One is in my new patio garden in full sun, so I added a solar bubbler to it, and the other is a carved stone bath from [Dances with Stone](https://danceswithstone.com/) that sits on the ground in my birch tree bed. I made sure to clean them and refill them frequently, and once the birds found them, a day didn't go by when I didn't see a bird using them, in addition to insects. I made sure to include stones in both bird baths so that insects could easily perch next to the water and safely drink.
+I planted grapes on the wooden arbor. This is a new type of crop for me, and I'm curious to see how they do. I decided to try rwo table grape varieties, [Vanessa](https://raintreenursery.com/products/vanessa-seedless-grape) and [Somerset](https://fedcoseeds.com/trees/somerset-seedless-grape-7502).
+
+I added two bird baths to my garden after reading about the benefits of water sources for birds and insects. One is in my new patio garden in full sun, so I added a solar bubbler to it, and the other is a carved stone bath from [Dances with Stone](https://danceswithstone.com/) that sits on the ground in my birch tree bed. I made sure to clean them and refill them frequently, and once the birds found them, a day didn't go by when I didn't see a bird using them. I made sure to include stones in both bird baths so that insects could easily perch next to the water and safely drink from these water sources as well.
 
 <div class="text-center inline-image-container content-container-expanded">
   <img src="../the-patio-garden-project/bird-bath-and-monarch.jpg" alt="" class="img-responsive img-center"></img>
@@ -225,7 +229,7 @@ Finally, I planted a lot more bulbs this fall. I read that crocuses help support
 
 ## Dos and Don'ts
 
-**Do** plan and write things down! I've used Google Sheets for a few years now for plant lists, but this year I got serious about tracking what I grew from seed and using Google Sheets for planning purposes. It was invaluable for all the seeds I started, and the notes I kept this year will make next years easier.
+**Do** plan and write things down! I've used Google Sheets for a few years now for plant lists, but this year I got serious about tracking what I grew from seed and using Google Sheets for planning purposes. It was invaluable for all the seeds I started, and the notes I kept this year will make next year easier.
 
 <div class="text-center inline-image-container content-container-expanded">
   <img src="./seed-spreadsheet.jpg" alt="" class="img-responsive img-center"></img>
@@ -254,12 +258,12 @@ I also got more serious about drawing out designs for my new garden beds, starti
 
 **Don't** sow milk jugs too densely. I had a lot of success with milk jugs, but in some cases, I really sowed too densely and wasn't diligent about thinning, and that meant by the fall when I needed to plant what I'd sown, I was left with a lot of tiny seedlings that could have been more established had I thinned them earlier.
 
-**Do** create a bloom calendar. I got the idea from [this blog post](https://meristemhorticulture.com/planted/bloom-calendar), and it was pretty easy to implement in Google Sheets. This will make future garden planning easier as I can really see exactly what blooms when and chart combinations. Plus, it's fun to see just how many flowering plants I grow in yard.
+**Do** create a bloom calendar. I got the idea from [this blog post](https://meristemhorticulture.com/planted/bloom-calendar), and it was pretty easy to implement in Google Sheets. This will make future garden planning easier as I can really see exactly what blooms when and chart combinations. Plus, it's fun to see just how many flowering plants I grow in my yard.
 
 <div class="text-center inline-image-container content-container-expanded">
   <img src="./bloom-calendar-2025.jpg" alt="" class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">A chart of almost all the flowers in my garden in 2025. Easy to make in Google Sheets if you get into the habit of recording blooms when you see them and noting roughly how long they last.</div>
+    <div class="inline-image-caption">A chart of almost all the flowers in my garden in 2025. Easy to make in Google Sheets if you get into the habit of recording blooms when you see them and noting roughly how long they last. Each cell represents about 10 days.</div>
   </div>
 </div>
 
@@ -303,14 +307,14 @@ Still, I think there are little vignettes that capture some of what I'm trying t
 <div class="text-center inline-image-container">
   <img src="./mt-laurel.jpg" alt="" class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">2025 was year two of this foundation planting of mountain laurels and ferns I transplanted from an existing bed (I am not sure what type of fern--maybe ostrich?). This planting still needs to come into its own, but I love the contrast of the dark leaves of the mountain laurel with the light green of the ferns. The mountain laurels also bloom at the same time as bowman's root in the foreground.</div>
+    <div class="inline-image-caption">2025 was year two of this foundation planting of mountain laurels and ferns I transplanted from an existing bed (I am not sure what type of fern--maybe ostrich?). This planting still needs to come into its own, but I love the contrast of the dark leaves of the mountain laurel with the light green of the ferns. The mountain laurels also bloom at the same time as Bowman's root in the foreground.</div>
   </div>
 </div>
 
 <div class="text-center inline-image-container">
   <img src="./flame-azalea-ninebark.jpg" alt="" class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">This is a little detail from the new shrub border behind my raised beds, ninebark "summer wine" behind a flame azalea. I wanted the maroon leaves of this ninebark cultivar to serve as a dramatic backdrop to the beautiful azalea blooms.</div>
+    <div class="inline-image-caption">This is a little detail from the new shrub border behind my raised beds, ninebark "summer wine" behind a flame azalea. I wanted the maroon leaves of this ninebark cultivar to serve as a dramatic backdrop to the beautiful orange azalea blooms.</div>
   </div>
 </div>
 
@@ -324,6 +328,6 @@ Still, I think there are little vignettes that capture some of what I'm trying t
 <div class="text-center inline-image-container">
   <img src="../the-patio-garden-project/fothergilla-fall-color.jpg" alt="" class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">Witch alder is becoming one of my favorite shrubs. It's native range is to the south of Massachusetts, more in the mid-Atlantic, but I can't resist the fall color. It also has beautiful blue/green summer foliage and early spring blooms. Here's one of the witch alders I planted in the patio bed at the peak of its fall color. I'm trying to get better about considering fall colors and shapes in my designs.</div>
+    <div class="inline-image-caption">Witch alder is becoming one of my favorite shrubs. Its native range is to the south of Massachusetts, more in the mid-Atlantic, but I can't resist the fall color. It also has beautiful blue/green summer foliage and early, fragrant spring blooms. Here's one of the witch alders I planted in the patio bed at the peak of its fall color. I'm trying to get better about considering fall colors and the fall and winter shapes of seedheads in my designs.</div>
   </div>
 </div>
