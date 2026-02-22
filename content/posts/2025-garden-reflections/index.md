@@ -219,7 +219,7 @@ I'm still trying to get good at gardening with mostly native plants in container
 <div class="text-center inline-image-container">
   <img src="./native-planters-on-deck.jpg" alt="New cedar planters on deck" class="img-responsive img-center"></img>
   <div class="caption-container">
-    <div class="inline-image-caption">New planters on my deck in September 2025. I tried a formula of picking a central focal point that provides height and texture all season long, then adding interest via blooms and contrasting foliage that provides. On the left it's Japenese forest grass, Jacob's ladder, and coral bells. In the middle, tufted hairgrass, asters (some type of New England aster cultivar), and coreopsis, and on the right, Christmas fern, coral bells, and asters.</div>
+    <div class="inline-image-caption">New planters on my deck in September 2025. I tried a formula of picking a central focal point that provides height and texture all season long, then adding interest via blooms and contrasting foliage. On the left it's Japenese forest grass, Jacob's ladder, and coral bells. In the middle, tufted hairgrass, asters (some type of New England aster cultivar), and coreopsis, and on the right, Christmas fern, coral bells, and asters.</div>
   </div>
 </div>
 
